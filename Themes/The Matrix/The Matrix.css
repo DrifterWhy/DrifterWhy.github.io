@@ -10,9 +10,9 @@
  * @invite JCKMcqcnUr
 */
 
-@import url(https://github.com/DrifterWhy/DrifterWhy.github.io/blob/main/Themes/The%20Matrix/The%20Matrix.css);
+@import url("https://github.com/DrifterWhy/DrifterWhy.github.io/blob/main/Themes/The%20Matrix/The%20Matrix.css");
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
+@import url("https://github.com/DrifterWhy/DrifterWhy.github.io/blob/main/Themes/CRT%20Effect.css");
 /* ^ This is the CRT effect. ^ If you don't like it, remove or comment out this line! */
 
 :root {
