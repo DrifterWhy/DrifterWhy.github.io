@@ -1,16 +1,16 @@
 /**
- * @name CRT
- * @author Saltssaumure
- * @authorLink https://github.com/Saltssaumure
- * @description A CRT monitor effect Discord theme.
- * @license MIT
- * @version 1.0
- * @invite uy8nKQVatp
- * @source https://github.com/MiniDiscordThemes/CRT
- * @donate https://ko-fi.com/saltssaumure
+ * @name CRT Effect
+ * @author Drifter
+ * @description CRT effect for discord theme
+ * @version 1.0.0
+ * @source https://github.com/DrifterWhy/DrifterWhy.github.io/blob/main/Themes/CRT%20Effect.css
+ * @donate https://www.paypal.com/paypalme/DrifterWhy
+ * @authorId 163381246980784128
+ * @invite JCKMcqcnUr
 */
 
-@import url("https://minidiscordthemes.github.io/CRT/crt.min.css");
+
+@import url("https://github.com/DrifterWhy/DrifterWhy.github.io/blob/main/Themes/CRT%20Effect.css");
 
 /* See https://github.com/MiniDiscordThemes/CRT#customisation for customisation settings. */
 :root {
