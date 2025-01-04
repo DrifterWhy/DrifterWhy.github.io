@@ -3,14 +3,14 @@
  * @author Drifter
  * @description The Matrix  has you...
  * @version 1.0.0
- * @source https://github.com/DrifterWhy.github.io/Themes/The Matrix/The Matrix.css
- * @website https://B4T3S.github.io/Themes/The Matrix
+ * @source https://github.com/DrifterWhy/DrifterWhy.github.io/blob/main/Themes/The%20Matrix/The%20Matrix.css
+ * @website https://github.com/DrifterWhy/DrifterWhy.github.io/tree/main/Themes/The%20Matrix
  * @donate https://www.paypal.com/paypalme/DrifterWhy
  * @authorId 163381246980784128
  * @invite JCKMcqcnUr
 */
 
-@import url(https://DrifterWhy.github.io/Themes/The Matrix/The Matrix.css);
+@import url(https://github.com/DrifterWhy/DrifterWhy.github.io/blob/main/Themes/The%20Matrix/The%20Matrix.css);
 
 @import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
 /* ^ This is the CRT effect. ^ If you don't like it, remove or comment out this line! */
@@ -197,11 +197,11 @@
 	--card-primary-pressed-bg: var(--background-secondary);
 	--card-secondary-pressed-bg: var(--background-tertiary);
 	
-	--scrollbar-thin-thumb: rgb(var(--backgroundtertiary_v));
+	--scrollbar-thin-thumb: rgb(var(--textdark_v));
 	--scrollbar-thin-track: transparent;
-	--scrollbar-auto-thumb: rgb(var(--backgroundtertiary_v));
+	--scrollbar-auto-thumb: rgb(var(--textdark_v));
 	--scrollbar-auto-track: rgb(var(--backgroundsecondary_v));
-	--scrollbar-auto-scrollbar-color-thumb: rgb(var(--backgroundtertiary_v));
+	--scrollbar-auto-scrollbar-color-thumb: rgb(var(--textdark_v));
 	--scrollbar-auto-scrollbar-color-track: rgb(var(--backgroundsecondary_v));
 	
 	--elevation-stroke: 0 0 0 1px rgba(6,6,7, .08);
@@ -274,11 +274,6 @@
 	--font-primary: var(--font_v) !important;
 	--font-display: var(--font_v) !important;
 }
-
-html {
-	color: var(--header-primary);
-}
-
 
 /* ~~~~		0.		TABLE OF CONTENTS				~~~~ */
 /*
